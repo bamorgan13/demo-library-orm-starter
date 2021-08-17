@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "library",
+    "password": "D6POh4SsYD",
+    "database": "library_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "library",
+    "password": "D6POh4SsYD",
+    "database": "library_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "library",
+    "password": "D6POh4SsYD",
+    "database": "library_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
